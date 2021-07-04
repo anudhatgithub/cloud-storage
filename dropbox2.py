@@ -1,8 +1,8 @@
 import dropbox
 import os
 
-acctoken = "pfiINuJ8iAgAAAAAAAAAAWCM-VshExJK5luCLx6kJfk2fyJ3lcJZQHqBkBFzmI2q"
-db = dropbox.Dropbox("pfiINuJ8iAgAAAAAAAAAAWCM-VshExJK5luCLx6kJfk2fyJ3lcJZQHqBkBFzmI2q")
+acctoken = "asdwfghjbaoutbo"
+db = dropbox.Dropbox("awbdrfoiwabrfoi3qwboifboqaiw")
 
 path = "C:/Users/Happy/Downloads/PRO-C40-master/PRO-C40-master"
 filelist = os.listdir(path)
